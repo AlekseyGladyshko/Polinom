@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  ЧМ2новый.cpp
+c:\users\hp-envy\source\repos\чм-2 новый\чм-2 новый\чм2новый.cpp(41): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\hp-envy\source\repos\чм-2 новый\чм-2 новый\чм2новый.cpp(56): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\hp-envy\source\repos\чм-2 новый\чм-2 новый\чм2новый.cpp(66): warning C4838: преобразование из "int" в "float" требует сужающего преобразования
+c:\users\hp-envy\source\repos\чм-2 новый\чм-2 новый\чм2новый.cpp(66): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\users\hp-envy\source\repos\чм-2 новый\чм-2 новый\чм2новый.cpp(78): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\hp-envy\source\repos\чм-2 новый\чм-2 новый\чм2новый.cpp(79): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\hp-envy\source\repos\чм-2 новый\чм-2 новый\чм2новый.cpp(88): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\hp-envy\source\repos\чм-2 новый\чм-2 новый\чм2новый.cpp(89): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  ЧМ-2 новый.vcxproj -> C:\Users\HP-ENVY\source\repos\ЧМ-2 новый\Debug\ЧМ-2 новый.exe
